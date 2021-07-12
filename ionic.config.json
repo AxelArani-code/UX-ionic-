@@ -1,0 +1,7 @@
+{
+  "name": "UIevents",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
